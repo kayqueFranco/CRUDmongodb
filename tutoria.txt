@@ -1,0 +1,9 @@
+Tutorial MongoDB
+
+passo 1: Ter intalado o MongoDB e configurado o Comanpass
+passo 2: iiciar um novo projeto node(npm init)
+passo 3: criar a estrutura de pastas(sistema)
+passo 4: Intalar o mongoose(npm i mongoose)
+passo 5: Criar o módulo de conexão
+    Atenção! Validar as conexões(somente conectar se 
+    nenhuma outra conexão estiver aberta)
